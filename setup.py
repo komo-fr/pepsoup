@@ -13,7 +13,7 @@ def read_file(file_name):
 
 setup(
     name="pepsoup",
-    version="0.0.1",
+    version="0.0.2",
     packages=find_packages(),
     description="a package for data preprocessing to analyze PEPs",
     long_description=read_file("README.rst"),
